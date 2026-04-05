@@ -1,0 +1,6 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","3494","has title","chromium","2026-04-05","passed","2026-04-05","","example.spec.ts","",""
+"","4312","User should Login successfully with valid credentials","chromium","2026-04-05","passed","2026-04-05","","ui\login.spec.ts","",""
+"","4200","get started link","chromium","2026-04-05","passed","2026-04-05","","example.spec.ts","",""
+"","4261","Validate cart items after adding products","chromium","2026-04-05","passed","2026-04-05","","ui\product.spec.ts","",""
+"","4958","Complete end-to-end order flow","chromium","2026-04-05","passed","2026-04-05","","ui\e2e.spec.ts","",""

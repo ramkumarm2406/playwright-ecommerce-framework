@@ -1,0 +1,4 @@
+Products added to cart: [ 'Sauce Labs Backpack', 'Sauce Labs Bike Light' ]
+Navigated to cart page
+Cart item count validated: 2
+Cart items validated: [ 'Sauce Labs Backpack', 'Sauce Labs Bike Light' ]
