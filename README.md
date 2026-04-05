@@ -21,3 +21,7 @@
 ## ▶️ Run Tests
 ```bash
 npx playwright test
+
+'''md
+## Sample Flow
+Login->Product->Cart-> Checkout
